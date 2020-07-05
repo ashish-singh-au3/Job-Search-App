@@ -1,3 +1,9 @@
-Simple job listing application.
+Search jobs along with filters feature.
 
-![Job Track](https://repository-images.githubusercontent.com/211654347/07536100-e2df-11e9-8432-aa3655ef594f)
+Stack Used:
+
+1. ReactJs
+2. Redux
+3. NodeJs
+4. API
+5. React Lifecycle Methods
